@@ -1,6 +1,7 @@
 import kivy
 import sys
 import os
+import urllib3
 
 from kivy.app import App
 from kivy import Config
